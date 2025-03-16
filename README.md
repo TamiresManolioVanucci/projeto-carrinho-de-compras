@@ -1,0 +1,1 @@
+Foi utilizado a função `split()` em JavaScript para separar uma String por delimitadores. Também menciona a recuperação de valores de campos de formulário com a propriedade `value`, a modificação de HTML via `innerHTML`, e a utilização de Template Strings para concatenar variáveis em Strings.
